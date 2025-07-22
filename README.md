@@ -101,9 +101,11 @@ Araç çalıştıktan sonra aşağıdaki dosyalar oluşturulur:
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request açın
 
+Detaylar için [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) dosyasını inceleyiniz.
+
 ## 📄 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE.md](LICENSE.md) dosyasını inceleyiniz.
 
 ## 🐛 Sorun Bildirimi
 

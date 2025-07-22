@@ -1,0 +1,21 @@
+FolderSleuth v1.0 — Klasörlerde Dosya Değişikliği İzleme Aracı
+Requirements file for Python dependencies
+
+Note: The following are part of Python standard library (no installation needed):
+- os
+- time
+- json
+- argparse  
+- hashlib
+- pickle
+
+# Minimum Python version required: 3.8+ (for walrus operator :=)
+python>=3.8
+
+Optional: For enhanced performance (uncomment if needed)
+numpy>=1.21.0
+
+# Development dependencies (uncomment for development)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0

@@ -9,7 +9,7 @@ Klasörlerinizde olan değişiklikleri takip eden basit ve etkili bir Python ara
 - 📊 **Değişiklik Raporu**: Eklenen, silinen ve değiştirilen dosyaları detaylı şekilde raporlar
 - 💾 **Durum Kaydetme**: Önceki durumu kaydeder ve karşılaştırma yapar
 - 📝 **Değişiklik Geçmişi**: Tüm değişiklikleri JSON formatında loglar
-- 🇹🇷 **Türkçe Arayüz**: Kullanıcı dostu Türkçe çıktılar
+- 🇹🇷 **Türkçe Arayüz**: Kullanıcı dostu Türkçe çıktılar verir
 
 ## 🚀 Kurulum
 
@@ -55,7 +55,7 @@ Araç çalıştıktan sonra aşağıdaki dosyalar oluşturulur:
 
 - **`backup_state.pkl`** - Klasörün mevcut durumunu saklar (binary format)
 - **`change_log.json`** - Tüm değişikliklerin zaman damgalı geçmişi
-- **`last_report.txt`** - Son tarmanın detaylı raporu (UTF-8 encoding)
+- **`last_report.txt`** - Son taramanın detaylı raporu (UTF-8 encoding)
 
 ## 🔧 Nasıl Çalışır
 

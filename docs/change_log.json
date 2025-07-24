@@ -1,18 +1,15 @@
 [
     {
-        "timestamp": "2025-07-21 17:16:47",
+        "timestamp": "2025-07-24 14:45:32",
         "changes": {
             "added": [
-                "a1.txt"
+                "a1.docx - Copy.docx",
+                "a1.docx.docx",
+                "a1.txt.txt",
+                "a2.bmp",
+                "a2.txt.txt",
+                "random.txt.txt"
             ],
-            "removed": [],
-            "changed": []
-        }
-    },
-    {
-        "timestamp": "2025-07-21 17:18:21",
-        "changes": {
-            "added": [],
             "removed": [],
             "changed": []
         }

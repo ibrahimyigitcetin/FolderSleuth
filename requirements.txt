@@ -1,6 +1,9 @@
 FolderSleuth v1.0 — Klasörlerde Dosya Değişikliği İzleme Aracı
 Requirements file for Python dependencies
 
+# System and process monitoring
+psutil>=5.9.8
+
 Note: The following are part of Python standard library (no installation needed):
 - os
 - time

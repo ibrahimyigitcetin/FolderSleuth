@@ -75,7 +75,7 @@ def generate_report(diff, folder):
         ""
     ]
     report = "\n".join(report_lines)
-    with open(REPORT_FILE, "w", encoding="utf-8") as f:  # <== düzeltme burada
+    with open(REPORT_FILE, "w", encoding="utf-8") as f:
         f.write(report)
     return report
 
@@ -91,8 +91,7 @@ def main(folder):
     print(report)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Simple Backup Differ - Folder Change Tracker")
+    parser = argparse.ArgumentParser(description="FolderSleuth - Klasörlerde Dosya Değişikliği İzleme Aracı")
     parser.add_argument("folder", help="Hedef klasörü belirtin")
     args = parser.parse_args()
     main(args.folder)
-

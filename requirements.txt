@@ -1,4 +1,4 @@
-FolderSleuth v1.0 — Klasörlerde Dosya Değişikliği İzleme Aracı
+FolderSleuth v2.0 — Klasörlerde Dosya Değişikliği İzleme Aracı
 Requirements file for Python dependencies
 
 # System and process monitoring

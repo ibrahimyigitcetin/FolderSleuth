@@ -1,7 +1,13 @@
-📁 Klasör: C:\Users\library\ProjeX
-🕒 Zaman: 2025-07-21 17:18:21
+📁 Klasör: C:\Users\library\Desktop\ProjeX
+🕒 Zaman: 2025-07-24 14:45:32
 
-➕ Eklenen Dosyalar: 0
+➕ Eklenen Dosyalar: 6
+  - a1.docx - Copy.docx
+  - a1.docx.docx
+  - a1.txt.txt
+  - a2.bmp
+  - a2.txt.txt
+  - random.txt.txt
 
 ➖ Silinen Dosyalar: 0
 

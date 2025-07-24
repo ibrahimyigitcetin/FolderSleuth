@@ -1,14 +1,27 @@
+============================================================
+📁 FOLDERSLEUTH - ADVANCED SECURITY REPORT
+============================================================
 📁 Klasör: C:\Users\library\Desktop\ProjeX
-🕒 Zaman: 2025-07-24 14:45:32
+🕒 Zaman: 2025-07-24 14:59:00
 
+✅ SECURITY STATUS: CLEAN
+No high-risk threats detected
+
+📊 FILE CHANGES SUMMARY
+------------------------------
 ➕ Eklenen Dosyalar: 6
   - a1.docx - Copy.docx
   - a1.docx.docx
-  - a1.txt.txt
+  - a1_payload.txt.txt
   - a2.bmp
   - a2.txt.txt
   - random.txt.txt
 
+
 ➖ Silinen Dosyalar: 0
 
+
 ✏️ Değiştirilen Dosyalar: 0
+
+
+============================================================

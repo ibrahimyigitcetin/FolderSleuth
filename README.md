@@ -44,7 +44,7 @@ pip install psutil
 
 ### Repository Kurulumu
 ```bash
-git clone https://github.com/yourusername/FolderSleuth.git
+git clone https://github.com/ibrahimyigitcetin/FolderSleuth.git
 cd FolderSleuth
 ```
 

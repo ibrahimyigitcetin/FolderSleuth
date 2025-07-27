@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# FolderSleuth - Klasörlerde Dosya Değişikliği İzleme Aracı 🔍
+# 🔍 FolderSleuth - Klasörlerde Dosya Değişikliği İzleme Aracı
 
 Gelişmiş yapay zeka tabanlı dosya izleme ve güvenlik tehdidi tespit sistemi. Klasörlerinizi ransomware, malware ve şüpheli aktivitelerden korur.
 

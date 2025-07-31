@@ -237,7 +237,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE.md](L
 Bir güvenlik açığı veya sorunla karşılaştıysanız:
 
 - **Güvenlik sorunları için**: Özel mesaj gönderin
-- **Genel sorunlar için**: [Issues](https://github.com/yourusername/FolderSleuth/issues) sayfasını kullanın
+- **Genel sorunlar için**: [Issues](https://github.com/ibrahimyigitcetin/FolderSleuth/issues) sayfasını kullanın
 
 ---
 
